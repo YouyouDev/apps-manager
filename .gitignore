@@ -1,0 +1,13 @@
+*.editorconfig
+.editorconfig
+.idea/
+build/
+dist/
+out/
+node_modules/
+server/api/page.js
+server/data/migration/pages-test-1.json
+.npmrc
+package-lock.json
+*.iml
+.awcache
